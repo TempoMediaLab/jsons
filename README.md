@@ -1,0 +1,2 @@
+# jsons
+GFW jsons ignore
